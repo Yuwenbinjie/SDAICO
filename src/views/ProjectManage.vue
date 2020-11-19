@@ -1,7 +1,7 @@
 <template>
     <div class="pay-dashboard">
         <p class="title-lv1">
-            项目管理
+            项目管理1
         </p>
         <el-tabs
             tab-position="top"
